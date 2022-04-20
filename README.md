@@ -8,8 +8,12 @@ Run `npm run build` or `npm run watch`
 
 https://github.com/souhailmerroun-practice/tailwindcss/blob/cbfebdee0d98342b7a5c7b1df79aed1168b37c80/package.json#L6-L9
 
+It should generate the 
+
+https://github.com/souhailmerroun-practice/tailwindcss/blob/ccbb76cfdf757d099444adc49ad66ca776403711/css/main.css#L1-L469
+
 Run `./node_modules/.bin/http-server` to serve 
 
-https://github.com/souhailmerroun-practice/tailwindcss/blob/1924717f90fa17f17b0705bbb717337f971660cc/index.html
+https://github.com/souhailmerroun-practice/tailwindcss/blob/ccbb76cfdf757d099444adc49ad66ca776403711/index.html#L1-L18
 
-https://github.com/souhailmerroun-practice/tailwindcss/blob/cbfebdee0d98342b7a5c7b1df79aed1168b37c80/index.html#L12
+Visit http://localhost:8080
