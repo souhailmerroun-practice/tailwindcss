@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/souhailmerroun-practice/tailwindcss/issues"
   },
-  "homepage": "https://github.com/souhailmerroun-practice/tailwindcss#readme"
+  "homepage": "https://github.com/souhailmerroun-practice/tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  }
 }
