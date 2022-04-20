@@ -1,7 +1,7 @@
 # Tailwind Crash Course | Project From Scratch
 
-source: https://www.youtube.com/watch?v=dFgzHOX84xQ
+1. 
 
-1. `npm init -y` -> [commit](https://github.com/souhailmerroun-practice/tailwindcss/commit/451a05d8e524ac9857299ea1281de4a3791056a8)
+Run `npm install` to install 
 
-2. 20a105ea61c001b8248da2d4de781b81d11aefd4
+https://github.com/souhailmerroun-practice/tailwindcss/blob/1f455a619829e9631f3823413ab7b88b9448882b/package.json#L20-L22
