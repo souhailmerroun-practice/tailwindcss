@@ -2,8 +2,10 @@
 
 Run `npm install` to install 
 
-https://github.com/souhailmerroun-practice/tailwindcss/blob/1f455a619829e9631f3823413ab7b88b9448882b/package.json#L20-L22
+https://github.com/souhailmerroun-practice/tailwindcss/blob/0cbd561f87eb84dd2aedf3e014c58fe0f49c9d58/package.json#L21-L24
 
 Run `npm run build` or `npm run watch`
+
+https://github.com/souhailmerroun-practice/tailwindcss/blob/0cbd561f87eb84dd2aedf3e014c58fe0f49c9d58/package.json#L7-L8
 
 Run `./node_modules/.bin/http-server` to serve https://github.com/souhailmerroun-practice/tailwindcss/blob/1924717f90fa17f17b0705bbb717337f971660cc/index.html
